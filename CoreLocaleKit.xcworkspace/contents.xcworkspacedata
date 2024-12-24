@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CoreLocaleKitExample/CoreLocaleKitExample.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:CoreLocaleKit"
+      name = "CoreLocaleKit">
+      <Group
+         location = "group:CoreLocaleKit"
+         name = "CoreLocaleKit">
+         <Group
+            location = "group:CoreLocaleKit.docc"
+            name = "CoreLocaleKit.docc">
+            <Group
+               location = "group:Resources"
+               name = "Resources">
+            </Group>
+            <FileRef
+               location = "group:CoreLocaleKit.md">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:CoreLocaleKit.h">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:CoreLocaleKit.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:CoreLocaleKitTests"
+         name = "CoreLocaleKitTests">
+         <FileRef
+            location = "group:CoreLocaleKitTests.swift">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
